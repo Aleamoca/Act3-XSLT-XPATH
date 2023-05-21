@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+h1{
+	color: rgb(229, 255, 0);
+}
+
+h2{
+	color: rgb(255, 0, 255)
+}
+
+empresa {
+	background-color: black;
+	font-family: "Comic sans ms";
+	font-size: 75;
+	display: block;
+}
+
+telefono {
+	background-color: rgb(6, 61, 241);
+	font-family: "Verdana";
+	font-size: 20;	
+	display: block;
+}
+
+profesores {
+    background-color: rgb(87, 111, 187);
+	font-family: "Verdana";
+	font-size: 15;
+	display: block;	
+}
+
+profesor {
+    background-color: rgb(13, 183, 250);
+	font-family: "Verdana";
+	font-size: 15;
+	display: block;	
+}
+
+id {
+	width: 250px;
+	display: inline-block;
+}
+
+nombre {
+	width: 100px;
+	display: inline-block;
+}
